@@ -1,2 +1,2 @@
 # hello-world
-Just typing in something
+Just typing some text in
